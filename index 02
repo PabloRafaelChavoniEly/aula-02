@@ -1,0 +1,53 @@
+html lang="pt-br">
+
+    <head>
+        <meta charset="utf-8">
+            <title>Site Aula 02 Pablo</title>
+                <link rel="stylesheet" href="css/index.css">
+
+    </head>
+
+    <body>
+      <header>
+            <nav id="menu">
+                <ul>
+                   <li><a href="#sessão 01">Setor 01</a></li>
+                   <li><a href="#sessão 02">Setor 02</a></li>
+                   <li><a href="#sessão 03">Setor 03</a></li>
+                   <li><a href="#sessão 04">Setor 04</a></li>
+                   <li><a href="Cadastro.html">Cadastro</a></li>
+                </ul>
+            </nav>
+      </header>
+      <main>
+          <section id="sessão 01">
+              <h1>Setor 01</h1>
+              <br>
+              <p style=color:crimson>ue, sollicitudin aliquam urna feugiat vel lacus pharetra bibendum. Lorem ipsum metus aliquet quis elementum praesent nisl commodo, sed vitae suscipit vel aliquam porttitor aliquam laoreet faucibus, etiam integer nisi massa scelerisque sapien inceptos. consequat dui hendrerit egestas ac etiam rhoncus placerat integer quis convallis egestas faucibus, commodo habitant ac elit lorem tellus lorem himenaeos viverra proin semper praesent, sollicitudin praesent tristique massa elementum magna class massa cubilia fames varius. praesent tempus eget quisque ut vulputate molestie conubia ac auctor placerat eu elementum taciti semper, pharetra vitae etiam habitasse nostra lobortis accumsan nisl felis ultricies nec eros. sociosqu aliquet elementum habitant augue fringilla turpis lectus ullamcorper vitae cong Suscipit tempus commodo bibendum magna eget egestas sed quisque torquent euismod, faucibus lobortis ad aenean sagittis scelerisque ac et curae per, est lacinia porttitor pretium volutpat sapien aenean lobortis metus. sit fusce sollicitudin tincidunt at netus dolor aenean aliquam, erat venenatis neque quam dictumst nulla interdum placerat, per vehicula rutrum et cursus fusce quisque. taciti gravida adipiscing vehicula lobortis auctor dui hac pharetra quis, mattis maecenas eget lacus augue venenatis maecenas suscipit, proin morbi suspendisse felis aenean imperdiet curae sed. diam imperdiet malesuada nulla donec rutrum cursus urna, nisi euismod eu tempus nibh interdum leo tortor, sed laoreet malesuada lobortis primis nisl. </p>
+            </section>
+
+          <section id="sessão 02">
+            <h1>Setor 02</h1>
+            <br>
+            <p style=color:maroon>ue, sollicitudin aliquam urna feugiat vel lacus pharetra bibendum. Lorem ipsum metus aliquet quis elementum praesent nisl commodo, sed vitae suscipit vel aliquam porttitor aliquam laoreet faucibus, etiam integer nisi massa scelerisque sapien inceptos. consequat dui hendrerit egestas ac etiam rhoncus placerat integer quis convallis egestas faucibus, commodo habitant ac elit lorem tellus lorem himenaeos viverra proin semper praesent, sollicitudin praesent tristique massa elementum magna class massa cubilia fames varius. praesent tempus eget quisque ut vulputate molestie conubia ac auctor placerat eu elementum taciti semper, pharetra vitae etiam habitasse nostra lobortis accumsan nisl felis ultricies nec eros. sociosqu aliquet elementum habitant augue fringilla turpis lectus ullamcorper vitae cong Suscipit tempus commodo bibendum magna eget egestas sed quisque torquent euismod, faucibus lobortis ad aenean sagittis scelerisque ac et curae per, est lacinia porttitor pretium volutpat sapien aenean lobortis metus. sit fusce sollicitudin tincidunt at netus dolor aenean aliquam, erat venenatis neque quam dictumst nulla interdum placerat, per vehicula rutrum et cursus fusce quisque. taciti gravida adipiscing vehicula lobortis auctor dui hac pharetra quis, mattis maecenas eget lacus augue venenatis maecenas suscipit, proin morbi suspendisse felis aenean imperdiet curae sed. diam imperdiet malesuada nulla donec rutrum cursus urna, nisi euismod eu tempus nibh interdum leo tortor, sed laoreet malesuada lobortis primis nisl. </p>
+        </section>
+
+        <section id="sessão 03">
+            <h1>Setor 03</h1>
+            <br>
+            <p style=color:navy>ue, sollicitudin aliquam urna feugiat vel lacus pharetra bibendum. Lorem ipsum metus aliquet quis elementum praesent nisl commodo, sed vitae suscipit vel aliquam porttitor aliquam laoreet faucibus, etiam integer nisi massa scelerisque sapien inceptos. consequat dui hendrerit egestas ac etiam rhoncus placerat integer quis convallis egestas faucibus, commodo habitant ac elit lorem tellus lorem himenaeos viverra proin semper praesent, sollicitudin praesent tristique massa elementum magna class massa cubilia fames varius. praesent tempus eget quisque ut vulputate molestie conubia ac auctor placerat eu elementum taciti semper, pharetra vitae etiam habitasse nostra lobortis accumsan nisl felis ultricies nec eros. sociosqu aliquet elementum habitant augue fringilla turpis lectus ullamcorper vitae cong Suscipit tempus commodo bibendum magna eget egestas sed quisque torquent euismod, faucibus lobortis ad aenean sagittis scelerisque ac et curae per, est lacinia porttitor pretium volutpat sapien aenean lobortis metus. sit fusce sollicitudin tincidunt at netus dolor aenean aliquam, erat venenatis neque quam dictumst nulla interdum placerat, per vehicula rutrum et cursus fusce quisque. taciti gravida adipiscing vehicula lobortis auctor dui hac pharetra quis, mattis maecenas eget lacus augue venenatis maecenas suscipit, proin morbi suspendisse felis aenean imperdiet curae sed. diam imperdiet malesuada nulla donec rutrum cursus urna, nisi euismod eu tempus nibh interdum leo tortor, sed laoreet malesuada lobortis primis nisl. </p>
+        </section>
+
+        <section id="sessão 04">
+            <h1>Setor 04</h1>
+            <br>
+            <p style=color:blue>ue, sollicitudin aliquam urna feugiat vel lacus pharetra bibendum. Lorem ipsum metus aliquet quis elementum praesent nisl commodo, sed vitae suscipit vel aliquam porttitor aliquam laoreet faucibus, etiam integer nisi massa scelerisque sapien inceptos. consequat dui hendrerit egestas ac etiam rhoncus placerat integer quis convallis egestas faucibus, commodo habitant ac elit lorem tellus lorem himenaeos viverra proin semper praesent, sollicitudin praesent tristique massa elementum magna class massa cubilia fames varius. praesent tempus eget quisque ut vulputate molestie conubia ac auctor placerat eu elementum taciti semper, pharetra vitae etiam habitasse nostra lobortis accumsan nisl felis ultricies nec eros. sociosqu aliquet elementum habitant augue fringilla turpis lectus ullamcorper vitae cong Suscipit tempus commodo bibendum magna eget egestas sed quisque torquent euismod, faucibus lobortis ad aenean sagittis scelerisque ac et curae per, est lacinia porttitor pretium volutpat sapien aenean lobortis metus. sit fusce sollicitudin tincidunt at netus dolor aenean aliquam, erat venenatis neque quam dictumst nulla interdum placerat, per vehicula rutrum et cursus fusce quisque. taciti gravida adipiscing vehicula lobortis auctor dui hac pharetra quis, mattis maecenas eget lacus augue venenatis maecenas suscipit, proin morbi suspendisse felis aenean imperdiet curae sed. diam imperdiet malesuada nulla donec rutrum cursus urna, nisi euismod eu tempus nibh interdum leo tortor, sed laoreet malesuada lobortis primis nisl. </p>
+        </section>
+
+      </main>
+
+
+    </body>
+
+
+</html>
